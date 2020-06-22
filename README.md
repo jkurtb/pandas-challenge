@@ -1,6 +1,9 @@
 # pandas-challenge
 Analyzing a Fantasy Game with Python and Pandas
 
+![computer-3923644_1280](https://user-images.githubusercontent.com/65078870/85299341-24cee900-b473-11ea-9329-d7a801cf66da.jpg)
+Image by ChristianaT from Pixabay
+
 # Heroes of Pymoli Data Analysis
 
 - Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
